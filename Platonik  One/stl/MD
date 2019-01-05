@@ -1,14 +1,17 @@
-Platonik ONE
-
+ARCHIMEDE
+La base è un rombicubottaedro (uno dei 13 solidi archimedei).
+Lo abbiamo reso cavo per alleggerirlo e potere inserire della palline
+per renderlo in grado di produrre stimoli sonori.
+E' stato inoltre dotato di incavi e fori che hanno il duplice scopo di stimolazione della prensilità
+e di permettere l'inserimento di loghi come cuori, cerchi, quadrati etc per la stimolazione visiva e tattile.
 
 Setting di Stampa:
-
 Altezza Layer: 0.2
-Spessore pareti: 0.8
+Spessore pareti: 1.2
 Densita riempimento: 50%
 Materiale: PLA
 Velocità di stampa, a seconda delle performace della stampante : dai 50 ai 70 mm sec.
-Supporto: Si con angolo di sbalzo 46°, per evitare la generazione del supporto sui fori romboidali.
-Se si vuole il supporto anche per i fori romboidali settare l'angolo inferiore ai 45°
-Adesione al piano di stampa: Si consiglia il Brim o perlomeno un'abbondante strato di lacca su piano riscaldato a 60°
+Supporto: no altrimenti si riempie lo spazio cavo interno e le palline non suonano e levare i supporti dai fori diventa difficoltoso.
+Adesione al piano di stampa: si consiglia abbondante strato di lacca e il brim in caso di iatto non riscaldato. Se si è dotati di
+piatto riscaldato si può fare a meno del brim (temperatura 60°).
 
