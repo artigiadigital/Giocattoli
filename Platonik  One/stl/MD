@@ -1,0 +1,14 @@
+Platonik ONE
+
+
+Setting di Stampa:
+
+Altezza Layer: 0.2
+Spessore pareti: 0.8
+Densita riempimento: 50%
+Materiale: PLA
+Velocità di stampa, a seconda delle performace della stampante : dai 50 ai 70 mm sec.
+Supporto: Si con angolo di sbalzo 46°, per evitare la generazione del supporto sui fori romboidali.
+Se si vuole il supporto anche per i fori romboidali settare l'angolo inferiore ai 45°
+Adesione al piano di stampa: Si consiglia il Brim o perlomeno un'abbondante strato di lacca su piano riscaldato a 60°
+
